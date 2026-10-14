@@ -1,0 +1,2 @@
+This is my GitHub practical.
+This file is created in practical-branch.
